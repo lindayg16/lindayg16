@@ -1,4 +1,4 @@
-- 👋 Hello all, my name is Linda
+- 👋 Hello all, my name is Linda. 
 - 👀 I’m working on a career change and am interested in data analytics and digital marketing industry! 
 - 🌱 I am continuously honing my analytical skills through certifications and staying updated by reading articles that pertains to my career. 
 - 💞️ I look forward to applying these skills to meaningful projects in a professional setting someday!
